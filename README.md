@@ -43,7 +43,7 @@ Want to collaborate on something cool or need a site for your business or portfo
 
 ---
 
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaIkram1122&show_icons=true&theme=tokyonight)
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hafiz-Hamza-Ikram&show_icons=true&theme=tokyonight)
 
 ---
 
